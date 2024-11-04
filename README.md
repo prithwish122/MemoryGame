@@ -1,4 +1,4 @@
-﻿# Crypy Snake
+﻿# Memory Quest
 
  ## Vision :
  
@@ -9,9 +9,9 @@
   Memory Quest is a decentralized memory game on AIA Chain, where players earn tokens by matching card pairs on a blockchain-powered grid. Each game session is recorded through AIA Chain smart contracts, ensuring transparent and verifiable gameplay. Players flip cards to find matching pairs, with tokens rewarded based on speed and efficiency. Faster completions yield more tokens, claimable daily for use within the ecosystem. A competitive leaderboard highlights top players, adding extra incentive. It combines skill-building with token rewards in a fair and secure decentralized environment on AIA Chain.
  
 ## Contract Address : 
- 0x3bd20eFF6654Eab6D83cB9DDE1E0903f91B16150
+ 0xE250Ac883C2D7F982e7eA76eB5543D3339d98d27
 
-- Verify this Contract -> [Verify Contract here ](https://testnet.aiascan.com/address/0x3bd20eFF6654Eab6D83cB9DDE1E0903f91B16150)
+- Verify this Contract -> [Verify Contract here ](https://testnet.aiascan.com/address/0xE250Ac883C2D7F982e7eA76eB5543D3339d98d27)
 
 
 
